@@ -1,1 +1,1 @@
-streamlit-1.37.1-py2.py3-none-any.whl
+https://core-previews.s3-us-west-2.amazonaws.com/pr-9491/streamlit-1.38.0-py2.py3-none-any.whl
